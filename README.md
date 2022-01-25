@@ -5,4 +5,4 @@
 - 📫 Reach me at https://venemies.net
 
 Some technologies I resonate with:
-AWS, C++, C#, CDK, CD/CI, CSS, DevOps, HTML, Java, Javascript, Kotlin, Lua, Node.js, PowerBI, Python, React, Scala, SQL, Swift
+AWS, C++, C#, CDK, CD/CI, CSS, DevOps, HTML, Java, Javascript, Kotlin, Lua, Node.js, PowerBI, Python, React, Ruby, Scala, SQL, Swift

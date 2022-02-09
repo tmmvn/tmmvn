@@ -6,3 +6,5 @@
 
 Some technologies I resonate with:
 AWS, C++, C#, CDK, CD/CI, CSS, DevOps, HTML, Java, Javascript, Kotlin, Lua, Node.js, PowerBI, Python, React, Ruby, Scala, SQL, Swift
+
+[View my gists.](https://gist.github.com/codemeddler)
